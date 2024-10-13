@@ -74,4 +74,5 @@ To see the full code, open the ".ipynb" file in this repository.
 The model performed exceptionally with an accuracy score of 93%.
 
 ### Limitations
-This dataset has only 150 data points (50 data points per class), which is a relatively small dataset size. Because of this, certain complex relationships are unable to be captured by the model. In cases like these, a decision tree model is a solid option.
+This dataset has only 150 data points (50 data points per class), which is a relatively small dataset size. Because of this, certain complex relationships are unable to be captured. Due to the small dataset size, a decision tree model works well.
+
